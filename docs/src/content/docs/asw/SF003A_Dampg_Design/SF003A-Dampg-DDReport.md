@@ -1,0 +1,131 @@
+---
+title: "Damping — SF003A Dampg DDReport"
+description: "Converted Design Document / Report from SF003A_Dampg_DDReport.txt (TXT, 3 KB)."
+---
+
+:::note
+Converted from `SF003A_Dampg_Design/Reports/SF003A_Dampg_DDReport.txt` (Design Document / Report; original TXT, about 3 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to SF003A_Dampg_Design](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+Verification of SF003A_Dampg_DataDict
+07-Jul-2015 09:51:02
+Tool Release:  2.14.0
+
+
+
+--------------------------------
+DATA CLASS VIOLATION CHECKS
+--------------------------------
+(errors: 0)
+
+---------------------------------------------------------------
+FDD DEFINITION VARIABLE:	<Type><Number><Variant>  e.g. SF99A
+--------------------------------------------------------------
+(variable: 1, errors: 0)
+
+----------------------------
+DATA DICTIONARY FILENAME:
+----------------------------
+(errors:  0)
+
+------------------------------------------------------------
+RUNNABLE:	<ShoName>Per<Number>  or  <ShoName>Init<Number>
+------------------------------------------------------------
+(variables: 2, errors: 0)
+
+--------------------------------------
+SrvRunnable:	<ShoName><TriggerName>
+--------------------------------------
+(variables: 0, errors: 0)
+
+------------
+Client:	
+------------
+(variables: 1, errors: 0)
+
+----------------------------
+INPUT SIGNALS:	<Identity>
+----------------------------
+(variables: 8, errors: 0)
+
+-----------------------------
+OUTPUT SIGNALS:	<Identity>
+-----------------------------
+(variables: 1, errors: 0)
+
+---------------------------------------
+INTER-RUNNABLE VARIABLES:	<Identity>
+---------------------------------------
+(variables: 0, errors: 0)
+
+------------------------------------
+CALIBRATIONS:	<ShoName><Identity>
+------------------------------------
+(variables: 24, errors: 0)
+
+----------------------------------------------
+IMPORTED CALIBRATIONS:	<ShoName><Identity>
+---------------------------------------------
+(variables: 1, errors: 0)
+
+-------------------------------------------
+NON-VOLATILE MEMORY:	<Identity>
+-------------------------------------------
+(variables: 0, errors: 0)
+
+------------------------------------------
+DISPLAY VARIABLES:	d<ShoName><Identity>
+------------------------------------------
+(variables: 9, errors: 0)
+
+-----------------------------------------------
+PER-INSTANCE MEMORY:	<Identity>
+-----------------------------------------------
+MotVelDampgLpFil            	Name does not match required pattern.
+MotVelDampgLpFil            	.DocUnits:  	Not on approved list.
+QuadDampgHwTqLpFil          	Name does not match required pattern.
+QuadDampgHwTqLpFil          	.DocUnits:  	Not on approved list.
+QuadDampgMotVelLpFil        	Name does not match required pattern.
+QuadDampgMotVelLpFil        	.DocUnits:  	Not on approved list.
+QuadDampgScaLpFil           	Name does not match required pattern.
+QuadDampgScaLpFil           	.DocUnits:  	Not on approved list.
+(variables: 7, errors: 8)
+
+--------------------------------------------------------------------------------------------
+CONSTANTS:	(ALL CAPS) required: 
+						 For "Global" CONSTANTS --- <SHONAME>_<IDENTITY>_<UNITS>_<DATATYPE>
+						 For "Local" CONSTANTS  --- <IDENTITY>_<UNITS>_<DATATYPE>
+-------------------------------------------------------------------------------------------
+FLTINJ_DAMPG_DAMPGCMDBAS         	Name does not match required pattern or is a special case.
+(variables: 4, errors: 1)
+
+----------------
+CSArguments:	
+----------------
+(variables: 0, errors: 0)
+
+--------------------------------------------------------------------------------------------
+CONFIGPARAM:	(ALL CAPS) required: 
+						 For "Global" CONSTANTS --- <SHONAME>_<IDENTITY>_<UNITS>_<DATATYPE>
+						 For "Local" CONSTANTS  --- <IDENTITY>_<UNITS>_<DATATYPE>
+-------------------------------------------------------------------------------------------
+(variables: 0, errors: 0)
+
+------
+OTHER:
+------
+(variables: 0, errors: 0)
+ 
+************************
+Grand Totals:
+58 variables,  9 issues to fix.
+
+
+End of Report
+
+```

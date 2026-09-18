@@ -1,0 +1,4 @@
+/* Small readability tweaks on top of the Starlight theme. */
+:root { --sl-font-system: "Segoe UI", system-ui, sans-serif; }
+.badge-origin { font-weight: 600; }
+table { font-size: 0.92rem; }

@@ -1,0 +1,135 @@
+---
+title: "Hysteresis Compensation — SF012A HysCmp DDReport"
+description: "Converted Design Document / Report from SF012A_HysCmp_DDReport.txt (TXT, 3 KB)."
+---
+
+:::note
+Converted from `SF012A_HysCmp_Design/Reports/SF012A_HysCmp_DDReport.txt` (Design Document / Report; original TXT, about 3 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to SF012A_HysCmp_Design](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+Verification of SF012A_HysCmp_DataDict
+06-Jan-2016 16:29:30
+Tool Release:  2.28.0
+
+
+
+--------------------------------
+DATA CLASS VIOLATION CHECKS
+--------------------------------
+(errors: 0)
+
+---------------------------------------------------------------
+FDD DEFINITION VARIABLE:	<Type><Number><Variant>  e.g. SF099A
+--------------------------------------------------------------
+(variable: 1, errors: 0)
+
+----------------------------
+DATA DICTIONARY FILENAME:
+----------------------------
+(errors:  0)
+
+------------------------------------------------------------
+RUNNABLE:	<ShoName>Per<Number>  or  <ShoName>Init<Number>
+------------------------------------------------------------
+(variables: 2, errors: 0)
+
+--------------------------------------
+SrvRunnable:	<TriggerName>
+--------------------------------------
+(variables: 0, errors: 0)
+
+-----------------------
+Client:	<TriggerName>
+-------------------------
+(variables: 1, errors: 0)
+
+----------------------------
+INPUT SIGNALS:	<Identity>
+----------------------------
+HysCmpCmdDi                 	Name does not match required pattern.
+HysCmpCmdDi                 	Cannot match name to list of known Nexteer signals.
+SysFricOffs                 	Cannot match name to list of known Nexteer signals.
+(variables: 7, errors: 3)
+
+-----------------------------
+OUTPUT SIGNALS:	<Identity>
+-----------------------------
+HysCmpCmd                   	Name does not match required pattern.
+(variables: 1, errors: 1)
+
+---------------------------------------
+INTER-RUNNABLE VARIABLES:	<Identity>
+---------------------------------------
+(variables: 0, errors: 0)
+
+------------------------------------
+CALIBRATIONS:	<ShoName><Identity>
+------------------------------------
+(variables: 23, errors: 0)
+
+----------------------------------------------
+IMPORTED CALIBRATIONS:	<ShoName><Identity>
+---------------------------------------------
+(variables: 2, errors: 0)
+
+-------------------------------------------
+NON-VOLATILE MEMORY:	<Identity>
+-------------------------------------------
+(variables: 0, errors: 0)
+
+------------------------------------------
+DISPLAY VARIABLES:	d<ShoName><Identity>
+------------------------------------------
+(variables: 9, errors: 0)
+
+-----------------------------------------------
+PER-INSTANCE MEMORY:	<Identity>
+-----------------------------------------------
+AssiCmdLpFil                	.DocUnits:    	Field is empty.
+FinalOutpLpFil              	.DocUnits:    	Field is empty.
+HwTqLpFil                   	.DocUnits:    	Field is empty.
+(variables: 7, errors: 3)
+
+--------------------------------------------------------------------------------------------
+CONSTANTS:	(ALL CAPS) required: 
+						 For "Global" CONSTANTS --- <SHONAME>_<IDENTITY>_<UNITS>_<DATATYPE>
+						 For "Local" CONSTANTS  --- <IDENTITY>_<UNITS>_<DATATYPE>
+-------------------------------------------------------------------------------------------
+FLTINJ_HYSCMP_HYSCMPCMD          	Name does not match required pattern as it is a special case.
+(variables: 7, errors: 1)
+
+-------------------------
+CSArguments:	<IDENTITY>
+---------------------------
+(variables: 0, errors: 0)
+
+--------------------------------------------------------------------------------------------
+CONFIGPARAM:	(ALL CAPS) required: 
+						 For "Global" CONSTANTS --- <SHONAME>_<IDENTITY>_<UNITS>_<DATATYPE>
+						 For "Local" CONSTANTS  --- <IDENTITY>_<UNITS>_<DATATYPE>
+-------------------------------------------------------------------------------------------
+(variables: 0, errors: 0)
+
+----------------------------
+NTC SIGNALS:	<Identity>
+----------------------------
+(variables: 0, errors: 0)
+
+------
+OTHER:
+------
+(variables: 0, errors: 0)
+ 
+************************
+Grand Totals:
+60 variables,  8 issues to fix.
+
+
+End of Report
+
+```

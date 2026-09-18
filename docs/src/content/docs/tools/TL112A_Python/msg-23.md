@@ -1,0 +1,24 @@
+---
+title: "Python Engineering Utilities — msg 23"
+description: "Converted Text Note / Report from msg_23.txt (TXT, 0 KB)."
+---
+
+:::note
+Converted from `TL112A_Python/tools/Lib/email/test/data/msg_23.txt` (Text Note / Report; original TXT, about 0 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to TL112A_Python](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+From: aperson@dom.ain
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain
+
+A message part
+--BOUNDARY--
+
+```

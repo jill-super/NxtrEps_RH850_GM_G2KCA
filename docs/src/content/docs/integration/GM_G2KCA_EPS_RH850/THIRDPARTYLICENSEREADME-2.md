@@ -1,0 +1,196 @@
+---
+title: "Top-Level Controller Project (G2KCA Electric Power Steering on RH850) — THIRDPARTYLICENSEREADME"
+description: "Converted Text Note / Report from THIRDPARTYLICENSEREADME.txt (TXT, 169 KB)."
+---
+
+:::note
+Converted from `GM_G2KCA_EPS_RH850/tools/SIP/DaVinciConfigurator/Core/x86_64/jre/THIRDPARTYLICENSEREADME.txt` (Text Note / Report; original TXT, about 169 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to GM_G2KCA_EPS_RH850](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+DO NOT TRANSLATE OR LOCALIZE.
+-----------------------------
+
+%% This notice is provided with respect to ASM Bytecode Manipulation 
+Framework v3.1, which is included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+Copyright (c) 2000-2005 INRIA, France Telecom
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holders nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+--- end of LICENSE ---
+
+--------------------------------------------------------------------------------
+
+%% This notice is provided with respect to CodeViewer 1.0, which is included 
+with JDK 7.
+
+--- begin of LICENSE ---
+
+Copyright 1999 by CoolServlets.com.
+
+Any errors or suggested improvements to this class can be reported as
+instructed on CoolServlets.com. We hope you enjoy this program... your
+comments will encourage further development!  This software is distributed
+under the terms of the BSD License.  Redistribution and use in source and
+binary forms, with or without modification, are permitted provided that the
+following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+Neither name of CoolServlets.com nor the names of its contributors may be
+used to endorse or promote products derived from this software without
+specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY COOLSERVLETS.COM AND CONTRIBUTORS ``AS IS'' AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to Cryptix AES 3.2.0, which is
+included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+Cryptix General License
+
+Copyright (c) 1995-2005 The Cryptix Foundation Limited.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+  1. Redistributions of source code must retain the copyright notice,
+     this list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in
+     the documentation and/or other materials provided with the
+     distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE CRYPTIX FOUNDATION LIMITED AND
+CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE CRYPTIX FOUNDATION LIMITED OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to CUP Parser Generator for 
+Java 0.10k, which is included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+Copyright 1996-1999 by Scott Hudson, Frank Flannery, C. Scott Ananian
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided
+that the above copyright notice appear in all copies and that both the
+copyright notice and this permission notice and warranty disclaimer appear in
+supporting documentation, and that the names of the authors or their
+employers not be used in advertising or publicity pertaining to distribution of
+the software without specific, written prior permission.
+
+The authors and their employers disclaim all warranties with regard to
+this software, including all implied warranties of merchantability and fitness.
+In no event shall the authors or their employers be liable for any special,
+indirect or consequential damages or any damages whatsoever resulting from
+loss of use, data or profits, whether in an action of contract, negligence or
+other tortious action, arising out of or in connection with the use or
+performance of this software.
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to Document Object Model (DOM) Level 2
+& 3, which is included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+W3C SOFTWARE NOTICE AND LICENSE
+
+http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231
+
+This work (and included software, documentation such as READMEs, or other
+related items) is being provided by the copyright holders under the following
+license. By obtaining, using and/or copying this work, you (the licensee)
+agree that you have read, understood, and will comply with the following terms
+and conditions.
+
+Permission to copy, modify, and distribute this software and its
+documentation, with or without modification, for any purpose and without fee
+or royalty is hereby granted, provided that you include the following on ALL
+copies of the software and documentation or portions thereof, including
+modifications:
+
+   1.The full text of this NOTICE in a location viewable to users of the
+   redistributed or derivative work.
+
+   2.Any pre-existing intellectual property disclaimers, notices, or terms and
+   conditions. If none exist, the W3C Software Short Notice should be included
+   (hypertext is preferred, text is permitted) within the body of any
+   redistributed or derivative code.
+
+   3.Notice of
+
+[… truncated after 8000 characters …]
+```

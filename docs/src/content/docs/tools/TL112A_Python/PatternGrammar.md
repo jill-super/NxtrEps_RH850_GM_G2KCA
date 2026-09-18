@@ -1,0 +1,44 @@
+---
+title: "Python Engineering Utilities — PatternGrammar"
+description: "Converted Text Note / Report from PatternGrammar.txt (TXT, 0 KB)."
+---
+
+:::note
+Converted from `TL112A_Python/tools/Lib/lib2to3/PatternGrammar.txt` (Text Note / Report; original TXT, about 0 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to TL112A_Python](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+# Copyright 2006 Google, Inc. All Rights Reserved.
+# Licensed to PSF under a Contributor Agreement.
+
+# A grammar to describe tree matching patterns.
+# Not shown here:
+# - 'TOKEN' stands for any token (leaf node)
+# - 'any' stands for any node (leaf or interior)
+# With 'any' we can still specify the sub-structure.
+
+# The start symbol is 'Matcher'.
+
+Matcher: Alternatives ENDMARKER
+
+Alternatives: Alternative ('|' Alternative)*
+
+Alternative: (Unit | NegatedUnit)+
+
+Unit: [NAME '='] ( STRING [Repeater]
+                 | NAME [Details] [Repeater]
+                 | '(' Alternatives ')' [Repeater]
+                 | '[' Alternatives ']'
+		 )
+
+NegatedUnit: 'not' (STRING | NAME [Details] | '(' Alternatives ')')
+
+Repeater: '*' | '+' | '{' NUMBER [',' NUMBER] '}'
+
+Details: '<' Alternatives '>'
+
+```

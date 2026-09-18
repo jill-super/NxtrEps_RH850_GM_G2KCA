@@ -1,0 +1,56 @@
+---
+title: "Python Engineering Utilities — msg 36"
+description: "Converted Text Note / Report from msg_36.txt (TXT, 0 KB)."
+---
+
+:::note
+Converted from `TL112A_Python/tools/Lib/email/test/data/msg_36.txt` (Text Note / Report; original TXT, about 0 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to TL112A_Python](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+Mime-Version: 1.0
+Content-Type: Multipart/Mixed; Boundary="NextPart"
+To: IETF-Announce:;
+From: Internet-Drafts@ietf.org
+Subject: I-D ACTION:draft-ietf-mboned-mix-00.txt
+Date: Tue, 22 Dec 1998 16:55:06 -0500
+
+--NextPart
+
+Blah blah blah
+
+--NextPart
+Content-Type: Multipart/Alternative; Boundary="OtherAccess"
+
+--OtherAccess
+Content-Type: Message/External-body;
+	access-type="mail-server";
+	server="mailserv@ietf.org"
+
+Content-Type: text/plain
+Content-ID: <19981222151406.I-D@ietf.org>
+
+ENCODING mime
+FILE /internet-drafts/draft-ietf-mboned-mix-00.txt
+
+--OtherAccess
+Content-Type: Message/External-body;
+	name="draft-ietf-mboned-mix-00.txt";
+	site="ftp.ietf.org";
+	access-type="anon-ftp";
+	directory="internet-drafts"
+
+Content-Type: text/plain
+Content-ID: <19981222151406.I-D@ietf.org>
+
+
+--OtherAccess--
+
+--NextPart--
+
+
+```

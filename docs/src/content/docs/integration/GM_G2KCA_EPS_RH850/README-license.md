@@ -1,0 +1,36 @@
+---
+title: "Top-Level Controller Project (G2KCA Electric Power Steering on RH850) — README-license"
+description: "Converted Text Note / Report from README-license.txt (TXT, 0 KB)."
+---
+
+:::note
+Converted from `GM_G2KCA_EPS_RH850/tools/SIP/DaVinciConfigurator/Core/plugins/gnu.trove_3.0.3/res/README-license.txt` (Text Note / Report; original TXT, about 0 KiB). Text below is extracted automatically; layout, images, and review mark-up from the original are not preserved.
+:::
+
+[Back to GM_G2KCA_EPS_RH850](./)
+
+*Conversion method: ver batim transcription.*
+
+```text
+The Trove library is licensed under the Lesser GNU Public License,
+which is included with the distribution in a file called LICENSE.txt.
+
+Other license arrangements are possible, for a fee: contact 
+ericdf@users.sourceforge.net for terms/pricing.
+
+The PrimeFinder and HashFunctions classes in Trove are subject to the
+following license restrictions:
+
+Copyright (c) 1999 CERN - European Organization for Nuclear Research.
+
+Permission to use, copy, modify, distribute and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation. CERN makes no representations about the
+suitability of this software for any purpose. It is provided "as is"
+without expressed or implied warranty.
+
+
+
+```
